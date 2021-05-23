@@ -6,6 +6,7 @@
 body {
   background-color: rgba(5, 5, 5, 0.6);
   color: rgba(210, 210, 210, 0.6);
+  overflow:hidden;
 }
 
 .wrapper {
